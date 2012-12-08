@@ -1,4 +1,4 @@
 nanobrew
 ========
 
-Drupal Zen subtheme.
+A Drupal distribution.
